@@ -1,0 +1,5 @@
+students,Enter student details (name_ ID_ and grade) and store them.Search for a student by  ID or name.If the student is not found.you can add their details,18/08/2024
+jhdg,dsjhf,5/9/2024
+hello,hdfvb,4/3/2333
+haneen,dhfgkdxj,2/3/2024
+ghf,dfkhgzbv,1/2/3444
